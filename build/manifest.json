@@ -1,0 +1,85 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-Bz17ltsF.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-QBROL9zn.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/funciones/funciones_categoria.js": {
+    "file": "assets/funciones_categoria-DW3BiflZ.js",
+    "name": "funciones_categoria",
+    "src": "resources/js/funciones/funciones_categoria.js",
+    "isEntry": true
+  },
+  "resources/js/funciones/funciones_citas.js": {
+    "file": "assets/funciones_citas-BXEFyZi6.js",
+    "name": "funciones_citas",
+    "src": "resources/js/funciones/funciones_citas.js",
+    "isEntry": true
+  },
+  "resources/js/funciones/funciones_clientes.js": {
+    "file": "assets/funciones_clientes-DasDURIH.js",
+    "name": "funciones_clientes",
+    "src": "resources/js/funciones/funciones_clientes.js",
+    "isEntry": true
+  },
+  "resources/js/funciones/funciones_marca.js": {
+    "file": "assets/funciones_marca-C68ez3n7.js",
+    "name": "funciones_marca",
+    "src": "resources/js/funciones/funciones_marca.js",
+    "isEntry": true
+  },
+  "resources/js/funciones/funciones_municipio.js": {
+    "file": "assets/funciones_municipio-ujPsOi29.js",
+    "name": "funciones_municipio",
+    "src": "resources/js/funciones/funciones_municipio.js",
+    "isEntry": true
+  },
+  "resources/js/funciones/funciones_pagina.js": {
+    "file": "assets/funciones_pagina-k4ekLWU2.js",
+    "name": "funciones_pagina",
+    "src": "resources/js/funciones/funciones_pagina.js",
+    "isEntry": true
+  },
+  "resources/js/funciones/funciones_productos.js": {
+    "file": "assets/funciones_productos-DJq8Cs7A.js",
+    "name": "funciones_productos",
+    "src": "resources/js/funciones/funciones_productos.js",
+    "isEntry": true
+  },
+  "resources/js/funciones/funciones_subcategorias.js": {
+    "file": "assets/funciones_subcategorias-DsfqiRF4.js",
+    "name": "funciones_subcategorias",
+    "src": "resources/js/funciones/funciones_subcategorias.js",
+    "isEntry": true
+  },
+  "resources/js/funciones/funciones_usuario.js": {
+    "file": "assets/funciones_usuario-0TgWt3yi.js",
+    "name": "funciones_usuario",
+    "src": "resources/js/funciones/funciones_usuario.js",
+    "isEntry": true
+  },
+  "resources/js/funciones/funciones_ventas.js": {
+    "file": "assets/funciones_ventas-D53Tyc-6.js",
+    "name": "funciones_ventas",
+    "src": "resources/js/funciones/funciones_ventas.js",
+    "isEntry": true
+  },
+  "resources/js/funciones/funciones_zona.js": {
+    "file": "assets/funciones_zona-B4zdbkle.js",
+    "name": "funciones_zona",
+    "src": "resources/js/funciones/funciones_zona.js",
+    "isEntry": true
+  },
+  "resources/js/funciones/grafico.js": {
+    "file": "assets/grafico-DSoJvxnm.js",
+    "name": "grafico",
+    "src": "resources/js/funciones/grafico.js",
+    "isEntry": true
+  }
+}
